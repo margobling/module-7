@@ -7,3 +7,23 @@
     text-align: end;
     font-size: x-large;
 }
+
+.btn {
+    background-color: rgb(196, 255, 255);
+}
+
+.act {
+    background-color: aqua;
+}
+
+.res {
+    background-color: rgb(255, 255, 255);
+}
+
+.clr {
+    background-color: rgb(236, 148, 119);
+}
+
+.card-body {
+    background-color: rgb(243, 231, 231);
+}
