@@ -1,4 +1,31 @@
 .game-card {
     height: 100vh;
-    font-family: 'Open Sans', monospace;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background: url('https://images.unsplash.com/photo-1626266061368-46a8f578ddd6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
+    background-size: cover;
+}
+
+.card {
+    background-color: rgb(177, 205, 219);
+}
+
+.card-header {
+    background-color: rgb(74, 120, 143);
+    text-transform: uppercase;
+}
+
+.card-footer {
+    background-color: rgb(74, 120, 143);
+}
+
+#btnRetry {
+    text-decoration: none;
+    color: black;
+}
+
+#btnRetry:hover {
+    color: rgb(194, 161, 72);
 }
